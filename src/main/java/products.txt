@@ -1,0 +1,10 @@
+Pork,30.0,MEAT
+Chicken,10.5,MEAT
+Apple,5.5,FRUIT
+Tomatoe,2.4,VEGETABLES
+Salmon,40.2,FISH
+Tuna,20.3,FISH
+Pear,4.9,FRUIT
+Cheries,4.4,FRUIT
+Potatoe,15,6,VEGETABLES
+Veal,55.4,MEAT
